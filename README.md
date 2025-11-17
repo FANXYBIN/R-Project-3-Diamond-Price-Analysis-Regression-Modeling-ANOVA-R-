@@ -178,7 +178,7 @@ Three linear regression models were tested:
 Cross-validation RMSEs were nearly identical → **no overfitting**.
 
 <div align="center">
-  <img src="images/diamond_rmse_compare.png" width="650"/>
+  <img src="images/diamond_rmse_compare.png" width="400"/>
 </div>
 
 #### 3️⃣ Do cut, color, or clarity significantly impact prices?
